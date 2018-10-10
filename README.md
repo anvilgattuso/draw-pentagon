@@ -6,7 +6,7 @@
 
 - Link non-adjacent vertexes with lines of different colors.
 
-- Fill up the parts divided by the lines with different brushes.​
+- Fill up the parts divided by the lines with different brushes.
 
 
 ## Requirements:
